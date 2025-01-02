@@ -100,7 +100,7 @@ button {
 
 .random-info .testi {
     width: 150px;
-    margin-bottom: 12px;
+    margin-bottom: 50px;
 }
 
 
@@ -117,4 +117,26 @@ button {
     display: flex;
     gap: 90px;
     text-align: center;
+}
+
+.content .quote {
+    background-color: #E5E7EB;
+    padding: 100px 0px;
+    font-style: italic;
+}
+
+.content .quote .text{
+    width: 750px;
+    margin: 0 auto;
+    padding-left: 40px;
+}
+
+.content .quote h2 {
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.content .quote .text p {
+    text-align: right;
+    font-weight: bolder;
 }
