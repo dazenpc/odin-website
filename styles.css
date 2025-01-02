@@ -161,3 +161,14 @@ button {
 .sign-up .sign button {
     outline: 2px solid white;
 }
+
+.footer {
+    color: white;
+    background-color: #1F2937;
+    text-align: center;
+    padding : 40px;
+}
+
+.footer h4 {
+    font-weight: lighter;
+}
