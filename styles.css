@@ -140,3 +140,24 @@ button {
     text-align: right;
     font-weight: bolder;
 }
+
+.sign-up {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up .sign {
+    width: 800px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+    border-radius: 25px;
+    color: white;
+}
+
+.sign-up .sign button {
+    outline: 2px solid white;
+}
